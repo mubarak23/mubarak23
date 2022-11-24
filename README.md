@@ -8,10 +8,10 @@ Experience software Developer with a demonstrated history of work, I enjoy learn
 
 Here's a quick summary about me:
 
-😊 Pronouns: He/Him
-🌱 i write nodejs/typescript on the backend and I’m currently learning Reactjs, Nextjs, microservice application and AWS Cloud
-😊 I’m looking for opportunities to contribute to open source projects, and mid / senior level opportunities.
-💼 Job interests: Software Engineer, Backend Engieenr (Mid level).
-📫 You can contact me by emailing mubarakaminu340@gmail.com.
+- 😊 Pronouns: He/Him
+- 🌱 i write nodejs/typescript on the backend and I’m currently learning Reactjs, Nextjs, microservice application and AWS Cloud
+- 😊 I’m looking for opportunities to contribute to open source projects, and mid / senior level opportunities.
+- 💼 Job interests: Software Engineer, Backend Engieenr (Mid level).
+- 📫 You can contact me by emailing mubarakaminu340@gmail.com.
 
 
