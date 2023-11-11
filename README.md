@@ -13,6 +13,6 @@ Here's a quick summary about me:
 - 😊 I’m looking for opportunities to contribute to open source projects, and mid / senior level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engieenr (Mid / Senior level).
 - 📫 You can contact me by email mubarakaminu340@gmail.com.
-- Build on the Bitcoin network
+- 💼 Build on the Bitcoin network / Actively looking to contribute to Bitcoin Open Source Projects
 
 
