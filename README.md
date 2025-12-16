@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <!--
 **mubarak23/mubarak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-# Hi, I’m Mubarak 👋⚡
+## Hi, I’m Mubarak 👋⚡
 
 I’m a **Bitcoin & Lightning Network developer** focused on building **real-world payment infrastructure**.
 
